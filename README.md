@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ninoralf
 - 👀 I’m interested in Coding and DIYs
 - 🌱 I’m currently learning different programming languages
-- 📫 How to reach me msg me on messenger
+- 📫 msg me on messenger if you need anything
 
 <!---
 Ninoralf/Ninoralf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
